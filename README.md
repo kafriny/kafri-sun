@@ -28,11 +28,91 @@ kafka-study
             <td></td>
         </tr>
     </tbody>
-        <tbody>
+    <tbody>
         <tr>
             <th>2022-10-27(목)/20:00</th>
             <td>2장 카프카 환경 구성, 3장 카프카 기본 개념과 구조</td>
             <td>박진우</td>
+            <td></td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <th>2022-11-03(목)/20:00</th>
+            <td>4장 카프카의 내부 동작 원리와 구현</td>
+            <td>김가림</td>
+            <td></td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <th></th>
+            <td>5장 프로듀서의 내부 동작 원리와 구현</td>
+            <td>전연주</td>
+            <td></td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <th></th>
+            <td>6장 컨슈머의 내부 동작 원리와 구현</td>
+            <td>장윤정</td>
+            <td></td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <th></th>
+            <td>7장 카프카 운영과 모니터링</td>
+            <td>박정률</td>
+            <td></td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <th></th>
+            <td>8장 카프카 버전 업그레이드와 확장</td>
+            <td>추교정</td>
+            <td></td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <th></th>
+            <td>9장 카프카 보안</td>
+            <td>김준현</td>
+            <td></td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <th></th>
+            <td>10장 스키마 레지스트리</td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <th></th>
+            <td>11장 카프카 커넥트</td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <th></th>
+            <td>12장 엔터프라이즈 카프카 아키텍처 구성 사례</td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <th></th>
+            <td>13장 카프카의 발전과 미래</td>
+            <td></td>
             <td></td>
         </tr>
     </tbody>
