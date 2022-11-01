@@ -199,7 +199,7 @@ replication-factor : 카프카 내 몇 개의 리플리케이션을 유지
 
 </aside>
 
-![3-2](https://user-images.githubusercontent.com/58289607/199203733-c126b781-02f5-445f-b25b-74af0f24ad2e.png)
+![3-2](https://user-images.githubusercontent.com/58289607/199207096-91e0d71c-6577-4d8d-ba88-de866f0a62ea.png)
 
 ## 카프카의 핵심 개념
 
