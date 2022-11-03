@@ -46,7 +46,7 @@ kafka-study
     </tbody>
     <tbody>
         <tr>
-            <th></th>
+            <th>2022-11-17(목)/20:00</th>
             <td>5장 프로듀서의 내부 동작 원리와 구현</td>
             <td>전연주</td>
             <td></td>
