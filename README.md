@@ -54,7 +54,7 @@ kafka-study
     </tbody>
     <tbody>
         <tr>
-            <th></th>
+            <th>2022-12-08(목)/20:00</th>
             <td>6장 컨슈머의 내부 동작 원리와 구현</td>
             <td>장윤정</td>
             <td></td>
@@ -62,7 +62,7 @@ kafka-study
     </tbody>
     <tbody>
         <tr>
-            <th></th>
+            <th>2022-12-08(목)/20:00</th>
             <td>7장 카프카 운영과 모니터링</td>
             <td>박정률</td>
             <td></td>
