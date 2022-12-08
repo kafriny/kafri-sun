@@ -88,7 +88,7 @@ kafka-study
         <tr>
             <th>2022-12-22(목)/20:00</th>
             <td>10장 스키마 레지스트리</td>
-            <td>추교정</td>
+            <td></td>
             <td></td>
         </tr>
     </tbody>
@@ -96,7 +96,7 @@ kafka-study
         <tr>
             <th>2022-12-22(목)/20:00</th>
             <td>11장 카프카 커넥트</td>
-            <td>김준현</td>
+            <td></td>
             <td></td>
         </tr>
     </tbody>
