@@ -70,7 +70,7 @@ kafka-study
     </tbody>
     <tbody>
         <tr>
-            <th></th>
+            <th>2022-12-15(목)/20:00</th>
             <td>8장 카프카 버전 업그레이드와 확장</td>
             <td>추교정</td>
             <td></td>
@@ -78,7 +78,7 @@ kafka-study
     </tbody>
     <tbody>
         <tr>
-            <th></th>
+            <th>2022-12-15(목)/20:00</th>
             <td>9장 카프카 보안</td>
             <td>김준현</td>
             <td></td>
@@ -86,7 +86,7 @@ kafka-study
     </tbody>
     <tbody>
         <tr>
-            <th></th>
+            <th>2022-12-22(목)/20:00</th>
             <td>10장 스키마 레지스트리</td>
             <td></td>
             <td></td>
@@ -94,7 +94,7 @@ kafka-study
     </tbody>
     <tbody>
         <tr>
-            <th></th>
+            <th>2022-12-22(목)/20:00</th>
             <td>11장 카프카 커넥트</td>
             <td></td>
             <td></td>
