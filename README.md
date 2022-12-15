@@ -86,33 +86,33 @@ kafka-study
     </tbody>
     <tbody>
         <tr>
-            <th>2022-12-22(목)/20:00</th>
+            <th>2023-01-05(목)/20:00</th>
             <td>10장 스키마 레지스트리</td>
-            <td></td>
+            <td>박정률</td>
             <td></td>
         </tr>
     </tbody>
     <tbody>
         <tr>
-            <th>2022-12-22(목)/20:00</th>
+            <th>2023-01-05(목)/20:00</th>
             <td>11장 카프카 커넥트</td>
-            <td></td>
-            <td></td>
-        </tr>
-    </tbody>
-    <tbody>
-        <tr>
-            <th></th>
-            <td>12장 엔터프라이즈 카프카 아키텍처 구성 사례</td>
-            <td></td>
+            <td>박진우</td>
             <td></td>
         </tr>
     </tbody>
     <tbody>
         <tr>
-            <th></th>
-            <td>13장 카프카의 발전과 미래</td>
+            <th>2023-01-12(목)/20:00</th>
+            <td>카프카 스트림즈</td>
+            <td>추교정</td>
             <td></td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <th>2023-01-12(목)/20:00</th>
+            <td>레디스 스트림</td>
+            <td>김가림</td>
             <td></td>
         </tr>
     </tbody>
